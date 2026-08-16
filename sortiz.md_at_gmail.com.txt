@@ -1,0 +1,10 @@
+Subject: One login instead of seven, Samuel?
+
+Hi Samuel,
+
+Last time we talked you were juggling separate tools for notes, e-prescribing, and billing. JotPsych runs all of it from one login, starting at $299/mo, month-to-month. Worth 15 minutes to see if it'd simplify your stack?
+
+— The JotPsych team
+
+[tracking link: https://jotpsych.com/back?ref=152760ac5c&utm_source=reengage&utm_campaign=consolidation]
+[SIMULATED SEND — would call ESP/Twilio API here]

@@ -1,0 +1,10 @@
+Subject: Your notes, done before the patient leaves, Rachel
+
+Hi Rachel,
+
+JotPsych's scribe drafts your note while you're still in the room — clinicians get 1-2 hours back a day. Want to see it on a real session?
+
+— The JotPsych team
+
+[tracking link: https://jotpsych.com/back?ref=701a81579c&utm_source=reengage&utm_campaign=time_back]
+[SIMULATED SEND — would call ESP/Twilio API here]
