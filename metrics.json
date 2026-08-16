@@ -1,0 +1,40 @@
+{
+  "cycle": 25,
+  "run_at": "2026-08-16T19:15:50.294698+00:00",
+  "total_input": 30,
+  "sent": 30,
+  "skipped_or_rejected_twice": 0,
+  "qc_catch_example": null,
+  "simulated_returns_this_cycle": 1,
+  "variant_performance_by_segment": {
+    "solo_early_stage": {
+      "consolidation": {
+        "sent": 85,
+        "returned": 6
+      },
+      "revenue_recovery": {
+        "sent": 250,
+        "returned": 35
+      },
+      "time_back": {
+        "sent": 65,
+        "returned": 4
+      }
+    },
+    "established_group": {
+      "consolidation": {
+        "sent": 26,
+        "returned": 2
+      },
+      "revenue_recovery": {
+        "sent": 301,
+        "returned": 34
+      },
+      "time_back": {
+        "sent": 23,
+        "returned": 2
+      }
+    }
+  },
+  "note": "sent/skip counts and QC decisions are real. 'returned' is SIMULATED (stand-in for a real webhook/CRM signal) so the bandit has something to learn from during this test run."
+}
