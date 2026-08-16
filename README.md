@@ -1,4 +1,5 @@
 Case Study: Re-engagement Machine
+
 A small, self-running system that turns a lapsed-clinician list into a measurable monthly re-engagement program.
 For reviewers: start hereEverything needed to evaluate the case study is in this repository.
 
